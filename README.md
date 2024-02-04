@@ -1,0 +1,1 @@
+This repo contains all the programs and codes of core java
